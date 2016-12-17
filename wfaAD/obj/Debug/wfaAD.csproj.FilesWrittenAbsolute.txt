@@ -1,0 +1,6 @@
+/home/betanzos/Downloads/wfaAD/wfaAD/obj/Debug/wfaAD.frmCheckAD.resources
+/home/betanzos/Downloads/wfaAD/wfaAD/obj/Debug/wfaAD.Properties.Resources.resources
+/home/betanzos/Downloads/wfaAD/wfaAD/bin/Debug/SSRSMaintenance.exe.mdb
+/home/betanzos/Downloads/wfaAD/wfaAD/bin/Debug/SSRSMaintenance.exe
+/home/betanzos/Downloads/wfaAD/wfaAD/obj/Debug/SSRSMaintenance.exe
+/home/betanzos/Downloads/wfaAD/wfaAD/obj/Debug/SSRSMaintenance.exe.mdb

@@ -1,0 +1,16 @@
+\\Lincolntrust.net\LTC\HomeDrives\betanzg\My Documents\wfaAD\wfaAD\wfaAD\bin\Debug\wfaAD.exe
+\\Lincolntrust.net\LTC\HomeDrives\betanzg\My Documents\wfaAD\wfaAD\wfaAD\bin\Debug\wfaAD.pdb
+\\Lincolntrust.net\LTC\HomeDrives\betanzg\My Documents\wfaAD\wfaAD\wfaAD\obj\Debug\ResolveAssemblyReference.cache
+\\Lincolntrust.net\LTC\HomeDrives\betanzg\My Documents\wfaAD\wfaAD\wfaAD\obj\Debug\wfaAD.frmCheckAD.resources
+\\Lincolntrust.net\LTC\HomeDrives\betanzg\My Documents\wfaAD\wfaAD\wfaAD\obj\Debug\wfaAD.Properties.Resources.resources
+\\Lincolntrust.net\LTC\HomeDrives\betanzg\My Documents\wfaAD\wfaAD\wfaAD\obj\Debug\wfaAD.csproj.GenerateResource.Cache
+\\Lincolntrust.net\LTC\HomeDrives\betanzg\My Documents\wfaAD\wfaAD\wfaAD\obj\Debug\wfaAD.exe
+\\Lincolntrust.net\LTC\HomeDrives\betanzg\My Documents\wfaAD\wfaAD\wfaAD\obj\Debug\wfaAD.pdb
+C:\Users\betanzg\Documents\Visual Studio 2008\wfaAD\wfaAD\wfaAD\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\betanzg\Documents\Visual Studio 2008\wfaAD\wfaAD\wfaAD\obj\Debug\wfaAD.Properties.Resources.resources
+C:\Users\betanzg\Documents\Visual Studio 2008\wfaAD\wfaAD\wfaAD\obj\Debug\wfaAD.csproj.GenerateResource.Cache
+C:\Users\betanzg\Documents\Visual Studio 2008\wfaAD\wfaAD\wfaAD\obj\Debug\wfaAD.frmCheckAD.resources
+C:\Users\betanzg\Documents\Visual Studio 2008\wfaAD\wfaAD\wfaAD\bin\Debug\SSRSMaintenance.exe
+C:\Users\betanzg\Documents\Visual Studio 2008\wfaAD\wfaAD\wfaAD\bin\Debug\SSRSMaintenance.pdb
+C:\Users\betanzg\Documents\Visual Studio 2008\wfaAD\wfaAD\wfaAD\obj\Debug\SSRSMaintenance.exe
+C:\Users\betanzg\Documents\Visual Studio 2008\wfaAD\wfaAD\wfaAD\obj\Debug\SSRSMaintenance.pdb
